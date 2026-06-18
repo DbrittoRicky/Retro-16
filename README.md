@@ -43,7 +43,7 @@ FantasyConsole/
 
 ## Getting Started
 
-**Prerequisites:** .NET 8 SDK
+**Prerequisites:** .NET 10 SDK
 
 ```bash
 git clone <repo-url>
