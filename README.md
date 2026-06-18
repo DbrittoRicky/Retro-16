@@ -273,3 +273,13 @@ Read .lua source from disk
 ---
 
 For future builds refer to `Fantasy_Console_Build_Plan_v2.md`
+
+---
+
+**AI Disclaimer:** I am not well versed with these types of projects, so most of the code is given by AI. However the files are filled with extensive comments explaining what I understood from the code.
+
+---
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](COPYING).
